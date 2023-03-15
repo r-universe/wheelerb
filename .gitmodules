@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "iCARE"]
+	path = iCARE
+	url = https://github.com/wheelerb/icare
+	shallow = true
+	registered = true
 [submodule "SUITOR"]
 	path = SUITOR
 	url = https://github.com/wheelerb/suitor
