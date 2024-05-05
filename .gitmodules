@@ -8,27 +8,12 @@
 [submodule "DelayedEffect.Design"]
 	path = DelayedEffect.Design
 	url = https://github.com/cran/DelayedEffect.Design
-[submodule "GrafGen"]
-	path = GrafGen
-	url = https://github.com/wheelerb/grafgen
-[submodule "INPower"]
-	path = INPower
-	url = https://git.bioconductor.org/packages/INPower
 [submodule "NegativeControlOutcomeAdjustment"]
 	path = NegativeControlOutcomeAdjustment
 	url = https://github.com/cran/NegativeControlOutcomeAdjustment
 [submodule "PRIMEplus"]
 	path = PRIMEplus
 	url = https://github.com/cran/PRIMEplus
-[submodule "REBET"]
-	path = REBET
-	url = https://git.bioconductor.org/packages/REBET
-[submodule "SUITOR"]
-	path = SUITOR
-	url = https://github.com/wheelerb/suitor
-[submodule "iCARE"]
-	path = iCARE
-	url = https://github.com/wheelerb/icare
 [submodule "samplesizelogisticcasecontrol"]
 	path = samplesizelogisticcasecontrol
 	url = https://github.com/cran/samplesizelogisticcasecontrol
