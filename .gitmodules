@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CaseCohortCoxSurvival"]
-	path = CaseCohortCoxSurvival
-	url = https://github.com/cran/CaseCohortCoxSurvival
 [submodule "DelayedEffect.Design"]
 	path = DelayedEffect.Design
 	url = https://github.com/cran/DelayedEffect.Design
