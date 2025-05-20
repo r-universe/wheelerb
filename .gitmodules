@@ -5,6 +5,9 @@
 [submodule "DelayedEffect.Design"]
 	path = DelayedEffect.Design
 	url = https://github.com/cran/DelayedEffect.Design
+[submodule "JPSurv"]
+	path = JPSurv
+	url = https://github.com/cran/JPSurv
 [submodule "NegativeControlOutcomeAdjustment"]
 	path = NegativeControlOutcomeAdjustment
 	url = https://github.com/cran/NegativeControlOutcomeAdjustment
