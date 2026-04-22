@@ -14,9 +14,6 @@
 [submodule "PRIMEplus"]
 	path = PRIMEplus
 	url = https://github.com/cran/PRIMEplus
-[submodule "SATS"]
-	path = SATS
-	url = https://github.com/cran/SATS
 [submodule "samplesizelogisticcasecontrol"]
 	path = samplesizelogisticcasecontrol
 	url = https://github.com/cran/samplesizelogisticcasecontrol
